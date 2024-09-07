@@ -1,0 +1,28 @@
+body {
+    background-color: #bedaf1; /* AliceBlue */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #101e4b; /* White */
+    border: 1px solid #000000;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.432);
+}
+
+h1 {
+    cursor: pointer;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #ffffff; /* DodgerBlue */
+    margin-bottom: 20px;
+}
+
+#results {
+    color: white;
+    margin-top: 20px;
+    line-height: 1.6;
+}

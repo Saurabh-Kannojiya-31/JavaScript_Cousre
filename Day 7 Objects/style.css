@@ -1,0 +1,23 @@
+body {
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #e8fcff; /* Light Cyan */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #c0c7b6; /* White */
+    border: 1px solid #000000;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    color: #00796b; /* Dark Cyan */
+    margin-bottom: 20px;
+}

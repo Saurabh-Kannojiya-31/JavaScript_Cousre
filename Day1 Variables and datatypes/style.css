@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(161, 161, 193, 0.333);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    background-color: #0b232e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 0 5px 0 rgb(0, 0, 0);
+    width: 80%;
+    max-width: 600px;
+}
+
+h1 {
+    cursor: pointer;
+    color: white;
+    text-decoration: underline;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
